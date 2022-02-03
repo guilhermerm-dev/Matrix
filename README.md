@@ -1,6 +1,6 @@
 Matrix
 =====================
-Programa em Javascript para utilizado para estudo.
+Programa em Javascript utilizado para estudo.
 
 ## Como usar:
 - **Instalar http-server via npm**: ```npm i -g http-server```
